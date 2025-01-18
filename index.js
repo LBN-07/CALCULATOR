@@ -1,10 +1,4 @@
-// function clearresult(){
-//     document.getElementById('result').value='';
-// }
 
-// function input(value){
-//     document.getElementsByid('result').value+= value;
-// }
 function clearresult() {
     document.getElementById('result').value = '';
 }
